@@ -67,7 +67,7 @@ Hunt Me II: Typo Squatters|TryHackMe|Medium|Subscription|[Link](https://tryhackm
 BumbleSting|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/bumblesting/)
 GoldenSpray|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/goldenspray/)
 Kerberoasted|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/kerberoasted/)
-T1197|CyberDefenders|Medium|Subscription|[Link]([Link](https://cyberdefenders.org/blueteam-ctf-challenges/t1197/))
+T1197|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/t1197/)
 Midnight RDP|CyberDefenders|Hard|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/midnight-rdp/)
 Ignoble Scorpius|CyberDefenders|Insane|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/ignoble-scorpius/)
 T1110–003|CyberDefenders|Easy|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/t1110003/)
