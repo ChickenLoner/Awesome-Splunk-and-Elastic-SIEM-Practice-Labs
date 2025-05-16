@@ -60,6 +60,14 @@ ItsyBitsy|TryHackMe|Medium|Subscription|[Link](https://tryhackme.com/room/itsybi
 Boogeyman 3|TryHackMe|Medium|Subscription|[Link](https://tryhackme.com/room/boogeyman3)
 Hunt Me I: Payment Collectors|TryHackMe|Medium|Subscription|[Link](https://tryhackme.com/room/paymentcollectors)
 Hunt Me II: Typo Squatters|TryHackMe|Medium|Subscription|[Link](https://tryhackme.com/room/typosquatters)
+Virus Vipers|XINTRA|Medium|Subscription|[Link](https://www.xintra.org/dashboard/lab/e7405)
+Assassin Kitty|XINTRA|Hard|Subscription|[Link](https://www.xintra.org/dashboard/lab/e7410)
+Waifu University|XINTRA|Easy|Subscription|[Link](https://www.xintra.org/dashboard/lab/e7403)
+Husky Corp|XINTRA|Medium|Subscription|[Link](https://www.xintra.org/dashboard/lab/e7463)
+TechTonik Inc|XINTRA|Hard|Subscription|[Link](https://www.xintra.org/dashboard/lab/e7468)
+Airbuzzed|XINTRA|Medium|Subscription|[Link](https://www.xintra.org/dashboard/lab/e7441)
+Council of Tropical Affairs|XINTRA|Medium|Subscription|[Link](https://www.xintra.org/dashboard/lab/e7481)
+Abu Jibal|XINTRA|Medium|Subscription|[Link](https://www.xintra.org/dashboard/lab/e7463)
 
 ## Elastic or Splunk, your choices
 |Lab Name|Platform|Difficulty|Pricing|Lab Link|
