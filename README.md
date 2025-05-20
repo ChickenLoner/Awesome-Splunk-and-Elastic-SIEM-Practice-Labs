@@ -4,7 +4,7 @@ Table of contents
 - [Elastic (ELK)](#elastic)
 - [Elastic or Splunk, your choices](#elastic-or-splunk-your-choices)
 * * *
-A list of labs with Splunk and Elastic from various CyberSecurity Training platforms such as [CyberDefenders](https://cyberdefenders.org/dashboard/), [BlueTeamLabs Online (BTLO)](https://blueteamlabs.online/), [TryHackMe](https://tryhackme.com/), [DFIR Labs](https://portal.training-thedfirreport.com/store) and more (will be updated in the future)
+A list of labs with Splunk and Elastic from various CyberSecurity Training platforms such as [CyberDefenders](https://cyberdefenders.org/dashboard/), [BlueTeamLabs Online (BTLO)](https://blueteamlabs.online/), [TryHackMe](https://tryhackme.com/), [DFIR Labs](https://portal.training-thedfirreport.com/store), [Xintra](https://www.xintra.org/) and more (will be updated in the future)
 
 ## Splunk
 |Lab Name|Platform|Difficulty|Pricing|Lab Link|
@@ -25,6 +25,7 @@ Boss Of The SOC v3|CyberDefenders|Hard|Subscription|[Link](https://cyberdefender
 AWSRaid|CyberDefenders|Easy|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/awsraid/)|
 NerisBot|CyberDefenders|Easy|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/nerisbot/)|
 LNKTrap|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/lnktrap/)|
+TeamCity Exploit|CyberDefenders|Insane|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/teamcity-exploit/)
 Benign|TryHackMe|Medium|Subscription|[Link](https://tryhackme.com/room/benign)
 PS Eclipse|TryHackMe|Medium|Subscription|[Link](https://tryhackme.com/room/posheclipse)
 New Hire Old Artifacts|TryHackMe|Medium|Subscription|[Link](https://tryhackme.com/room/newhireoldartifacts)
@@ -34,6 +35,7 @@ Brains|TryHackMe|Easy|Subscription|[Link](https://tryhackme.com/room/brains)
 Splunk 2|TryHackMe|Medium|Subscription|[Link](https://tryhackme.com/room/splunk2gcd5)
 Splunk 3|TryHackMe|Medium|Subscription|[Link](https://tryhackme.com/room/splunk3zs)
 Fixit|TryHackMe|Medium|Subscription|[Link](https://tryhackme.com/room/fixit)
+Volt Typhoon|TryHackMe|Medium|Free|[Link](https://tryhackme.com/room/volttyphoon)
 
 ## Elastic
 |Lab Name|Platform|Difficulty|Pricing|Lab Link|
