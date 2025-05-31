@@ -4,7 +4,7 @@ Table of contents
 - [Elastic (ELK)](#elastic)
 - [Elastic or Splunk, your choices](#elastic-or-splunk-your-choices)
 * * *
-A list of labs with Splunk and Elastic from various CyberSecurity Training platforms such as [CyberDefenders](https://cyberdefenders.org/dashboard/), [BlueTeamLabs Online (BTLO)](https://blueteamlabs.online/), [TryHackMe](https://tryhackme.com/), [DFIR Labs](https://portal.training-thedfirreport.com/store), [Xintra](https://www.xintra.org/) and more (will be updated in the future)
+A list of labs with Splunk and Elastic from various CyberSecurity Training platforms such as [CyberDefenders](https://cyberdefenders.org/dashboard/), [BlueTeamLabs Online (BTLO)](https://blueteamlabs.online/), [TryHackMe](https://tryhackme.com/), [DFIR Labs](https://portal.training-thedfirreport.com/store), [Xintra](https://www.xintra.org/), [Ace Responder](https://aceresponder.com), and more (will be updated in the future)!
 
 ## Splunk
 |Lab Name|Platform|Difficulty|Pricing|Lab Link|
@@ -70,6 +70,20 @@ TechTonik Inc|XINTRA|Hard|Subscription|[Link](https://www.xintra.org/dashboard/l
 Airbuzzed|XINTRA|Medium|Subscription|[Link](https://www.xintra.org/dashboard/lab/e7441)
 Council of Tropical Affairs|XINTRA|Medium|Subscription|[Link](https://www.xintra.org/dashboard/lab/e7481)
 Abu Jibal|XINTRA|Medium|Subscription|[Link](https://www.xintra.org/dashboard/lab/e7463)
+Acquisition|Ace Responder|None|Subscription|[Link](https://aceresponder.com/challenge/acquisition)
+Pipe Dream|Ace Responder|None|Subscription|[Link](https://aceresponder.com/challenge/pipedream)
+AD Maze|Ace Responder|None|Subscription|[Link](https://aceresponder.com/challenge/ad-maze)
+Qakbot|Ace Responder|None|Subscription|[Link](https://aceresponder.com/challenge/qakbot)
+Blind Spot|Ace Responder|None|Subscription|[Link](https://aceresponder.com/challenge/blind-spot)
+Pwned 365|Ace Responder|None|Subscription|[Link](https://aceresponder.com/challenge/pwned-365)
+Pivot|Ace Responder|None|Subscription|[Link](https://aceresponder.com/challenge/pivot)
+Under Pressure|Ace Responder|None|Subscription|[Link](https://aceresponder.com/challenge/under-pressure)
+Airgapped|Ace Responder|None|Subscription|[Link](https://aceresponder.com/challenge/airgapped)
+Unassumed Breach|Ace Responder|None|Subscription|[Link](https://aceresponder.com/challenge/unassumed-breach)
+Volt Typhoon|Ace Responder|None|Subscription|[Link](https://aceresponder.com/challenge/volt-typhoon)
+Run of the Mill|Ace Responder|None|Free|[Link](https://aceresponder.com/challenge/run-of-the-mill)
+Locked Up|Ace Responder|None|Subscription|[Link](https://aceresponder.com/challenge/locked-up)
+Intune Infiltration|Ace Responder|None|Subscription|[Link](https://aceresponder.com/challenge/intune-infiltration)
 
 ## Elastic or Splunk, your choices
 |Lab Name|Platform|Difficulty|Pricing|Lab Link|
