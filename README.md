@@ -26,6 +26,8 @@ AWSRaid|CyberDefenders|Easy|Subscription|[Link](https://cyberdefenders.org/bluet
 NerisBot|CyberDefenders|Easy|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/nerisbot/)|
 LNKTrap|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/lnktrap/)|
 TeamCity Exploit|CyberDefenders|Insane|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/teamcity-exploit/)
+Maldemort|CyberDefenders|Hard|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/maldemort/)
+ShadowCitadel|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/shadowcitadel/)
 Benign|TryHackMe|Medium|Subscription|[Link](https://tryhackme.com/room/benign)
 PS Eclipse|TryHackMe|Medium|Subscription|[Link](https://tryhackme.com/room/posheclipse)
 New Hire Old Artifacts|TryHackMe|Medium|Subscription|[Link](https://tryhackme.com/room/newhireoldartifacts)
@@ -109,5 +111,8 @@ Backdoors and LockBit - Private Case #27138|DFIR Labs|Easy|Pay per access|[Link]
 BlackSuit Ransomware - Public Case #29354|DFIR Labs|Hard|Pay per access|[Link](https://portal.training-thedfirreport.com/store)
 Elpaco-Team Ransomware - Private Case #30043|DFIR Labs|Medium|Pay per access|[Link](https://portal.training-thedfirreport.com/store)
 Mud In The Water - Private Case #29823|DFIR Labs|Hard|Pay per access|[Link](https://portal.training-thedfirreport.com/store)
+RansomHub Leads to Domain Compromise – Private Case #33490|DFIR Labs|Hard|Pay per access|[Link](https://portal.training-thedfirreport.com/store)
+The Hive Ransomware Fail - Public Case #18364|DFIR Labs|Easy|Pay per access|[Link](https://portal.training-thedfirreport.com/store)
+The Nokoyawa Ransomware Intrusion - Public Case #18543|DFIR Labs|Easy|Pay per access|[Link](https://portal.training-thedfirreport.com/store)
 
 ***
