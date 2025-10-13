@@ -32,6 +32,7 @@ Maldemort|CyberDefenders|Hard|Subscription|[Link](https://cyberdefenders.org/blu
 CredSnare|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/credsnare/)
 DOOM|CyberDefenders|Insane|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/doom/)
 DoubleDragon|CyberDefenders|Hard|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/doubledragon/)
+Nitrogen|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/nitrogen/)
 Benign|TryHackMe|Medium|Subscription|[Link](https://tryhackme.com/room/benign)
 PS Eclipse|TryHackMe|Medium|Subscription|[Link](https://tryhackme.com/room/posheclipse)
 New Hire Old Artifacts|TryHackMe|Medium|Subscription|[Link](https://tryhackme.com/room/newhireoldartifacts)
