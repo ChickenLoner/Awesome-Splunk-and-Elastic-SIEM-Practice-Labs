@@ -28,6 +28,10 @@ LNKTrap|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/blu
 TeamCity Exploit|CyberDefenders|Insane|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/teamcity-exploit/)
 Maldemort|CyberDefenders|Hard|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/maldemort/)
 ShadowCitadel|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/shadowcitadel/)
+Maldemort|CyberDefenders|Hard|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/maldemort/)
+CredSnare|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/credsnare/)
+DOOM|CyberDefenders|Insane|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/doom/)
+DoubleDragon|CyberDefenders|Hard|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/doubledragon/)
 Benign|TryHackMe|Medium|Subscription|[Link](https://tryhackme.com/room/benign)
 PS Eclipse|TryHackMe|Medium|Subscription|[Link](https://tryhackme.com/room/posheclipse)
 New Hire Old Artifacts|TryHackMe|Medium|Subscription|[Link](https://tryhackme.com/room/newhireoldartifacts)
@@ -53,6 +57,7 @@ Defaced|BTLO|Easy|Subscription|[Link](https://blueteamlabs.online/home/investiga
 Rigged|BTLO|Medium|Subscription|[Link](https://blueteamlabs.online/home/investigation/rigged-81bc67b3e7)
 Peak|BTLO|Medium|Subscription|[Link](https://blueteamlabs.online/home/investigation/peak-98765b84cb)
 Invoice|BTLO|Medium|Subscription|[Link](https://blueteamlabs.online/home/investigation/invoice-593671201f)
+Bada Breach|BTLO|Hard|Subscription|[Link](https://blueteamlabs.online/home/investigation/bada-breach-a476f8b6bf)
 AzureHunt|CyberDefenders|Easy|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/azurehunt/)
 ElasticCase|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/elasticcase/)
 GitTheGate|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/gitthegate/)
@@ -114,5 +119,7 @@ Mud In The Water - Private Case #29823|DFIR Labs|Hard|Pay per access|[Link](http
 RansomHub Leads to Domain Compromise – Private Case #33490|DFIR Labs|Hard|Pay per access|[Link](https://portal.training-thedfirreport.com/store)
 The Hive Ransomware Fail - Public Case #18364|DFIR Labs|Easy|Pay per access|[Link](https://portal.training-thedfirreport.com/store)
 The Nokoyawa Ransomware Intrusion - Public Case #18543|DFIR Labs|Easy|Pay per access|[Link](https://portal.training-thedfirreport.com/store)
+Specter's Domain Heist - Private Case #35218|DFIR Labs|Hard|Pay per access|[Link](https://portal.training-thedfirreport.com/store)
+The Lunar Tangled Malware Web - Public Case #28761|DFIR Labs|Hard|Pay per access|[Link](https://portal.training-thedfirreport.com/store)
 
 ***
