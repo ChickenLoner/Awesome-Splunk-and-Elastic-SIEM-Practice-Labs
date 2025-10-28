@@ -28,7 +28,6 @@ LNKTrap|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/blu
 TeamCity Exploit|CyberDefenders|Insane|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/teamcity-exploit/)
 Maldemort|CyberDefenders|Hard|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/maldemort/)
 ShadowCitadel|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/shadowcitadel/)
-Maldemort|CyberDefenders|Hard|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/maldemort/)
 CredSnare|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/credsnare/)
 DOOM|CyberDefenders|Insane|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/doom/)
 DoubleDragon|CyberDefenders|Hard|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/doubledragon/)
