@@ -65,14 +65,14 @@ Rigged|BTLO|Medium|Subscription|[Link](https://blueteamlabs.online/home/investig
 Peak|BTLO|Medium|Subscription|[Link](https://blueteamlabs.online/home/investigation/peak-98765b84cb)
 Invoice|BTLO|Medium|Subscription|[Link](https://blueteamlabs.online/home/investigation/invoice-593671201f)
 Bada Breach|BTLO|Hard|Subscription|[Link](https://blueteamlabs.online/home/investigation/bada-breach-a476f8b6bf)|✅
-AzureHunt|CyberDefenders|Easy|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/azurehunt/)
-ElasticCase|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/elasticcase/)
-GitTheGate|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/gitthegate/)
-PaloAltoRCE|CyberDefenders|Hard|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/paloaltorce/)
-HafinumAPT|CyberDefenders|Hard|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/hafinumapt/)
-LTE Fallen Wall|CyberDefenders|Hard|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/lte-fallen-wall/)
-Slingshot|TryHackMe|Easy|Subscription|[Link](https://tryhackme.com/room/slingshot)
-ItsyBitsy|TryHackMe|Medium|Subscription|[Link](https://tryhackme.com/room/itsybitsy)
+AzureHunt|CyberDefenders|Easy|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/azurehunt/)|❌
+ElasticCase|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/elasticcase/)|❌
+GitTheGate|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/gitthegate/)|❌
+PaloAltoRCE|CyberDefenders|Hard|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/paloaltorce/)|❌
+HafinumAPT|CyberDefenders|Hard|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/hafinumapt/)|❌
+LTE Fallen Wall|CyberDefenders|Hard|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/lte-fallen-wall/)|❌
+Slingshot|TryHackMe|Easy|Subscription|[Link](https://tryhackme.com/room/slingshot)|❌
+ItsyBitsy|TryHackMe|Medium|Subscription|[Link](https://tryhackme.com/room/itsybitsy)|❌
 Boogeyman 3|TryHackMe|Medium|Subscription|[Link](https://tryhackme.com/room/boogeyman3)|✅
 Hunt Me I: Payment Collectors|TryHackMe|Medium|Subscription|[Link](https://tryhackme.com/room/paymentcollectors)
 Hunt Me II: Typo Squatters|TryHackMe|Medium|Subscription|[Link](https://tryhackme.com/room/typosquatters)|✅
@@ -105,12 +105,12 @@ Intune Infiltration|Ace Responder|None|Subscription|[Link](https://aceresponder.
 BumbleSting|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/bumblesting/)|✅
 GoldenSpray|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/goldenspray/)
 Kerberoasted|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/kerberoasted/)|✅
-T1197|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/t1197/)
+T1197|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/t1197/)|❌
 Midnight RDP|CyberDefenders|Hard|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/midnight-rdp/)|✅
 Ignoble Scorpius|CyberDefenders|Insane|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/ignoble-scorpius/)|✅
-T1110–003|CyberDefenders|Easy|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/t1110003/)
-REvil|CyberDefenders|Easy|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/revil/)
-Black Basta|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/black-basta/)
+T1110–003|CyberDefenders|Easy|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/t1110003/)|❌
+REvil|CyberDefenders|Easy|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/revil/)|❌
+Black Basta|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/black-basta/)|✅
 Rhysida|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/rhysida/)
 BlueSky Ransomware - Public Case #19208|DFIR Labs|Easy|Pay per access|[Link](https://portal.training-thedfirreport.com/store)
 ALPHV Ransomware - Public Case #24952|DFIR Labs|Easy|Pay per access|[Link](https://portal.training-thedfirreport.com/store)
