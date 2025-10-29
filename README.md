@@ -7,6 +7,7 @@ Table of contents
 📝 A list of labs with Splunk and Elastic from various CyberSecurity Training platforms such as [CyberDefenders](https://cyberdefenders.org/dashboard/), [BlueTeamLabs Online (BTLO)](https://blueteamlabs.online/), [TryHackMe](https://tryhackme.com/), [DFIR Labs](https://portal.training-thedfirreport.com/store), [Xintra](https://www.xintra.org/), [Ace Responder](https://aceresponder.com), and more (will be updated in the future)!
 
 💬 Remark
+
 Meaning of each Symbol in AD column:
 - ✅ — The lab involves an **Active Directory environment**.
 - ❌ — The lab is **not part of an Active Directory environment** or AD is present but **not significantly involved** (e.g., no domain interactions or lateral movement).
