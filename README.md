@@ -4,41 +4,47 @@ Table of contents
 - [Elastic (ELK)](#elastic)
 - [Elastic or Splunk, your choices](#elastic-or-splunk-your-choices)
 * * *
-A list of labs with Splunk and Elastic from various CyberSecurity Training platforms such as [CyberDefenders](https://cyberdefenders.org/dashboard/), [BlueTeamLabs Online (BTLO)](https://blueteamlabs.online/), [TryHackMe](https://tryhackme.com/), [DFIR Labs](https://portal.training-thedfirreport.com/store), [Xintra](https://www.xintra.org/), [Ace Responder](https://aceresponder.com), and more (will be updated in the future)!
+📝 A list of labs with Splunk and Elastic from various CyberSecurity Training platforms such as [CyberDefenders](https://cyberdefenders.org/dashboard/), [BlueTeamLabs Online (BTLO)](https://blueteamlabs.online/), [TryHackMe](https://tryhackme.com/), [DFIR Labs](https://portal.training-thedfirreport.com/store), [Xintra](https://www.xintra.org/), [Ace Responder](https://aceresponder.com), and more (will be updated in the future)!
+
+💬 Remark
+Meaning of each Symbol in AD column:
+- ✅ — The lab involves an **Active Directory environment**.
+- ❌ — The lab is **not part of an Active Directory environment** or AD is present but **not significantly involved** (e.g., no domain interactions or lateral movement).
+- *(Blank)* — Not confirmed whether the lab uses Active Directory (have not reviewed them yet).
 
 ## Splunk
 |Lab Name|Platform|Difficulty|Pricing|Lab Link|AD|
 |-|-|-|-|-|-|
-Spilled Bucket|BTLO|Easy|Subscription|[Link](https://blueteamlabs.online/home/investigation/spilled-bucket-21784640e3)|
+Spilled Bucket|BTLO|Easy|Subscription|[Link](https://blueteamlabs.online/home/investigation/spilled-bucket-21784640e3)|❌
 AWeSome|BTLO|Medium|Subscription|[Link](https://blueteamlabs.online/home/investigation/awesome-1c301a0441)|
 DomainNance|BTLO|Medium|Subscription|[Link](https://blueteamlabs.online/home/investigation/domainnance-befa8a1fd4)|✅
 Nika-AD|BTLO|Medium|Subscription|[Link](https://blueteamlabs.online/home/investigation/nika-ad-826478c8a5)|✅
 Splunk IT|BTLO|Easy|Subscription|[Link](https://blueteamlabs.online/home/investigation/splunk-it-0aae63055a)|✅
-Drilldown|BTLO|Medium|Subscription|[Link](https://blueteamlabs.online/home/investigation/drilldown-db9ea241de)
-Pikaboo|BTLO|Medium|Subscription|[Link](https://blueteamlabs.online/home/investigation/pikaboo-6bcb02f1a9)
-MiddleMayhem|BTLO|Easy|Free|[Link](https://blueteamlabs.online/home/investigation/middlemayhem-aa3c27f5d1)
+Drilldown|BTLO|Medium|Subscription|[Link](https://blueteamlabs.online/home/investigation/drilldown-db9ea241de)|❌
+Pikaboo|BTLO|Medium|Subscription|[Link](https://blueteamlabs.online/home/investigation/pikaboo-6bcb02f1a9)|✅
+MiddleMayhem|BTLO|Easy|Free|[Link](https://blueteamlabs.online/home/investigation/middlemayhem-aa3c27f5d1)|❌
 ShadowRoast|CyberDefenders|Meidum|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/shadowroast/)|✅
 FalconEye|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/falconeye/)|✅
-Boss Of The SOC v1|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/boss-of-the-soc-v1/)|
+Boss Of The SOC v1|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/boss-of-the-soc-v1/)|❌
 Boss Of The SOC v2|CyberDefenders|Hard|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/boss-of-the-soc-v2/)|
 Boss Of The SOC v3|CyberDefenders|Hard|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/boss-of-the-soc-v3/)|
-AWSRaid|CyberDefenders|Easy|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/awsraid/)|
-NerisBot|CyberDefenders|Easy|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/nerisbot/)|
-LNKTrap|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/lnktrap/)|
+AWSRaid|CyberDefenders|Easy|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/awsraid/)|❌
+NerisBot|CyberDefenders|Easy|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/nerisbot/)|❌
+LNKTrap|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/lnktrap/)|✅
 TeamCity Exploit|CyberDefenders|Insane|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/teamcity-exploit/)|✅
-Maldemort|CyberDefenders|Hard|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/maldemort/)
+Maldemort|CyberDefenders|Hard|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/maldemort/)|❌
 ShadowCitadel|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/shadowcitadel/)|✅
 CredSnare|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/credsnare/)|✅
 DOOM|CyberDefenders|Insane|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/doom/)|✅
 DoubleDragon|CyberDefenders|Hard|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/doubledragon/)|✅
 Nitrogen|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/nitrogen/)|✅
 BlackSuitBreach|CyberDefenders|Hard|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/blacksuitbreach/)|✅
-Benign|TryHackMe|Medium|Subscription|[Link](https://tryhackme.com/room/benign)
-PS Eclipse|TryHackMe|Medium|Subscription|[Link](https://tryhackme.com/room/posheclipse)
-New Hire Old Artifacts|TryHackMe|Medium|Subscription|[Link](https://tryhackme.com/room/newhireoldartifacts)
-Investigating with Splunk|TryHackMe|Medium|Subscription|[Link](https://tryhackme.com/room/investigatingwithsplunk)
-Conti|TryHackMe|Medium|Free|[Link](https://tryhackme.com/room/contiransomwarehgh)
-Brains|TryHackMe|Easy|Subscription|[Link](https://tryhackme.com/room/brains)
+Benign|TryHackMe|Medium|Subscription|[Link](https://tryhackme.com/room/benign)|❌
+PS Eclipse|TryHackMe|Medium|Subscription|[Link](https://tryhackme.com/room/posheclipse)|❌
+New Hire Old Artifacts|TryHackMe|Medium|Subscription|[Link](https://tryhackme.com/room/newhireoldartifacts)|❌
+Investigating with Splunk|TryHackMe|Medium|Subscription|[Link](https://tryhackme.com/room/investigatingwithsplunk)|❌
+Conti|TryHackMe|Medium|Free|[Link](https://tryhackme.com/room/contiransomwarehgh)|❌
+Brains|TryHackMe|Easy|Subscription|[Link](https://tryhackme.com/room/brains)|❌
 Splunk 2|TryHackMe|Medium|Subscription|[Link](https://tryhackme.com/room/splunk2gcd5)
 Splunk 3|TryHackMe|Medium|Subscription|[Link](https://tryhackme.com/room/splunk3zs)
 Fixit|TryHackMe|Medium|Subscription|[Link](https://tryhackme.com/room/fixit)
@@ -47,7 +53,7 @@ Volt Typhoon|TryHackMe|Medium|Free|[Link](https://tryhackme.com/room/volttyphoon
 ## Elastic
 |Lab Name|Platform|Difficulty|Pricing|Lab Link|AD|
 |-|-|-|-|-|-|
-SOC Alpha 1|BTLO|Easy|Subscription|[Link](https://blueteamlabs.online/home/investigation/soc-alpha-1-2ba4c4a550)
+SOC Alpha 1|BTLO|Easy|Subscription|[Link](https://blueteamlabs.online/home/investigation/soc-alpha-1-2ba4c4a550)|❌
 SOC Alpha 2|BTLO|Medium|Subscription|[Link](https://blueteamlabs.online/home/investigation/soc-alpha-2-f3825dedc4)
 SOC Alpha 3|BTLO|Hard|Subscription|[Link](https://blueteamlabs.online/home/investigation/soc-alpha-3-cfb2546607)
 Cozy Bear|BTLO|Hard|Subscription|[Link](https://blueteamlabs.online/home/investigation/cozy-bear-bffa6a1614)
@@ -124,8 +130,3 @@ Specter's Domain Heist - Private Case #35218|DFIR Labs|Hard|Pay per access|[Link
 The Lunar Tangled Malware Web - Public Case #28761|DFIR Labs|Hard|Pay per access|[Link](https://portal.training-thedfirreport.com/store)
 
 ***
-💬 Remark
-Meaning of each Symbol in AD column:
-- ✅ — The lab involves an **Active Directory environment**.
-- ❌ — The lab is **not part of an Active Directory environment** or AD is present but **not significantly involved** (e.g., no domain interactions or lateral movement).
-- *(Blank)* — Not confirmed whether the lab uses Active Directory (have not reviewed them yet).
