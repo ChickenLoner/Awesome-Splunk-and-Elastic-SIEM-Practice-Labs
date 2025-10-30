@@ -104,7 +104,7 @@ Intune Infiltration|Ace Responder|None|Subscription|[Link](https://aceresponder.
 |Lab Name|Platform|Difficulty|Pricing|Lab Link|AD|
 |-|-|-|-|-|-|
 BumbleSting|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/bumblesting/)|✅
-GoldenSpray|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/goldenspray/)|
+GoldenSpray|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/goldenspray/)|✅
 Kerberoasted|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/kerberoasted/)|✅
 T1197|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/t1197/)|❌
 Midnight RDP|CyberDefenders|Hard|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/midnight-rdp/)|✅
