@@ -78,13 +78,13 @@ Boogeyman 3|TryHackMe|Medium|Subscription|[Link](https://tryhackme.com/room/boog
 Hunt Me I: Payment Collectors|TryHackMe|Medium|Subscription|[Link](https://tryhackme.com/room/paymentcollectors)|❌
 Hunt Me II: Typo Squatters|TryHackMe|Medium|Subscription|[Link](https://tryhackme.com/room/typosquatters)|✅
 Virus Vipers|XINTRA|Medium|Subscription|[Link](https://www.xintra.org/dashboard/lab/e7405)|
-Assassin Kitty|XINTRA|Hard|Subscription|[Link](https://www.xintra.org/dashboard/lab/e7410)|
-Waifu University|XINTRA|Easy|Subscription|[Link](https://www.xintra.org/dashboard/lab/e7403)|
-Husky Corp|XINTRA|Medium|Subscription|[Link](https://www.xintra.org/dashboard/lab/e7463)|
+Assassin Kitty|XINTRA|Hard|Subscription|[Link](https://www.xintra.org/dashboard/lab/e7410)|✅
+Waifu University|XINTRA|Easy|Subscription|[Link](https://www.xintra.org/dashboard/lab/e7403)|✅
+Husky Corp|XINTRA|Medium|Subscription|[Link](https://www.xintra.org/dashboard/lab/e7463)|✅
 TechTonik Inc|XINTRA|Hard|Subscription|[Link](https://www.xintra.org/dashboard/lab/e7468)|
 Airbuzzed|XINTRA|Medium|Subscription|[Link](https://www.xintra.org/dashboard/lab/e7441)|
-Council of Tropical Affairs|XINTRA|Medium|Subscription|[Link](https://www.xintra.org/dashboard/lab/e7481)|
-Abu Jibal|XINTRA|Medium|Subscription|[Link](https://www.xintra.org/dashboard/lab/e7463)|
+Council of Tropical Affairs|XINTRA|Medium|Subscription|[Link](https://www.xintra.org/dashboard/lab/e7481)|✅
+Abu Jibal|XINTRA|Medium|Subscription|[Link](https://www.xintra.org/dashboard/lab/e7463)|✅
 Acquisition|Ace Responder|None|Subscription|[Link](https://aceresponder.com/challenge/acquisition)|
 Pipe Dream|Ace Responder|None|Subscription|[Link](https://aceresponder.com/challenge/pipedream)|
 AD Maze|Ace Responder|None|Subscription|[Link](https://aceresponder.com/challenge/ad-maze)|
@@ -112,22 +112,22 @@ Ignoble Scorpius|CyberDefenders|Insane|Subscription|[Link](https://cyberdefender
 T1110–003|CyberDefenders|Easy|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/t1110003/)|❌
 REvil|CyberDefenders|Easy|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/revil/)|❌
 Black Basta|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/black-basta/)|✅
-Rhysida|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/rhysida/)|
+Rhysida|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/rhysida/)|✅
 BlueSky Ransomware - Public Case #19208|DFIR Labs|Easy|Pay per access|[Link](https://portal.training-thedfirreport.com/store)|
-ALPHV Ransomware - Public Case #24952|DFIR Labs|Easy|Pay per access|[Link](https://portal.training-thedfirreport.com/store)|
-A Truly Graceful Wipe Out - Public Case #21619|DFIR Labs|Easy|Pay per access|[Link](https://portal.training-thedfirreport.com/store)|
-NetSupport Intrusion Results in Domain Compromise - Public Case #19438|DFIR Labs|Medium|Pay per access|[Link](https://portal.training-thedfirreport.com/store)|
-Qbot Leads to Domain Compromise - Private Case #27101|DFIR Labs|Medium|Pay per access|[Link](https://portal.training-thedfirreport.com/store)|
+ALPHV Ransomware - Public Case #24952|DFIR Labs|Easy|Pay per access|[Link](https://portal.training-thedfirreport.com/store)|✅
+A Truly Graceful Wipe Out - Public Case #21619|DFIR Labs|Easy|Pay per access|[Link](https://portal.training-thedfirreport.com/store)|✅
+NetSupport Intrusion Results in Domain Compromise - Public Case #19438|DFIR Labs|Medium|Pay per access|[Link](https://portal.training-thedfirreport.com/store)|✅
+Qbot Leads to Domain Compromise - Private Case #27101|DFIR Labs|Medium|Pay per access|[Link](https://portal.training-thedfirreport.com/store)|✅
 Dagon Locker Ransomware - Private Case #23825|DFIR Labs|Hard|Pay per access|[Link](https://portal.training-thedfirreport.com/store)|
-LockBit Ransomware - Public Case #27244|DFIR Labs|Medium|Pay per access|[Link](https://portal.training-thedfirreport.com/store)|
-Backdoors and LockBit - Private Case #27138|DFIR Labs|Easy|Pay per access|[Link](https://portal.training-thedfirreport.com/store)|
-BlackSuit Ransomware - Public Case #29354|DFIR Labs|Hard|Pay per access|[Link](https://portal.training-thedfirreport.com/store)|
-Elpaco-Team Ransomware - Private Case #30043|DFIR Labs|Medium|Pay per access|[Link](https://portal.training-thedfirreport.com/store)|
+LockBit Ransomware - Public Case #27244|DFIR Labs|Medium|Pay per access|[Link](https://portal.training-thedfirreport.com/store)|✅
+Backdoors and LockBit - Private Case #27138|DFIR Labs|Easy|Pay per access|[Link](https://portal.training-thedfirreport.com/store)|✅
+BlackSuit Ransomware - Public Case #29354|DFIR Labs|Hard|Pay per access|[Link](https://portal.training-thedfirreport.com/store)|✅
+Elpaco-Team Ransomware - Private Case #30043|DFIR Labs|Medium|Pay per access|[Link](https://portal.training-thedfirreport.com/store)|✅
 Mud In The Water - Private Case #29823|DFIR Labs|Hard|Pay per access|[Link](https://portal.training-thedfirreport.com/store)|
-RansomHub Leads to Domain Compromise – Private Case #33490|DFIR Labs|Hard|Pay per access|[Link](https://portal.training-thedfirreport.com/store)|
+RansomHub Leads to Domain Compromise – Private Case #33490|DFIR Labs|Hard|Pay per access|[Link](https://portal.training-thedfirreport.com/store)|✅
 The Hive Ransomware Fail - Public Case #18364|DFIR Labs|Easy|Pay per access|[Link](https://portal.training-thedfirreport.com/store)|
 The Nokoyawa Ransomware Intrusion - Public Case #18543|DFIR Labs|Easy|Pay per access|[Link](https://portal.training-thedfirreport.com/store)|
 Specter's Domain Heist - Private Case #35218|DFIR Labs|Hard|Pay per access|[Link](https://portal.training-thedfirreport.com/store)|
-The Lunar Tangled Malware Web - Public Case #28761|DFIR Labs|Hard|Pay per access|[Link](https://portal.training-thedfirreport.com/store)|
+The Lunar Tangled Malware Web - Public Case #28761|DFIR Labs|Hard|Pay per access|[Link](https://portal.training-thedfirreport.com/store)|✅
 
 ***
