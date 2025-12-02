@@ -24,6 +24,7 @@ Splunk IT|BTLO|Easy|Subscription|[Link](https://blueteamlabs.online/home/investi
 Drilldown|BTLO|Medium|Subscription|[Link](https://blueteamlabs.online/home/investigation/drilldown-db9ea241de)|❌
 Pikaboo|BTLO|Medium|Subscription|[Link](https://blueteamlabs.online/home/investigation/pikaboo-6bcb02f1a9)|✅
 MiddleMayhem|BTLO|Easy|Free|[Link](https://blueteamlabs.online/home/investigation/middlemayhem-aa3c27f5d1)|❌
+Rotten Cloud|BTLO|Medium|Free|[Link](https://blueteamlabs.online/home/investigation/rotten-cloud-dcf4ab87e0)|❌
 ShadowRoast|CyberDefenders|Meidum|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/shadowroast/)|✅
 FalconEye|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/falconeye/)|✅
 Boss Of The SOC v1|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/boss-of-the-soc-v1/)|❌
@@ -40,6 +41,8 @@ DOOM|CyberDefenders|Insane|Subscription|[Link](https://cyberdefenders.org/bluete
 DoubleDragon|CyberDefenders|Hard|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/doubledragon/)|✅
 Nitrogen|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/nitrogen/)|✅
 BlackSuitBreach|CyberDefenders|Hard|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/blacksuitbreach/)|✅
+RansomHub|CyberDefenders|Hard|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/ransomhub/)|✅
+Latrodectus – LunarSpider|CyberDefenders|Hard|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/latrodectus-lunarspider/)|✅
 Benign|TryHackMe|Medium|Subscription|[Link](https://tryhackme.com/room/benign)|❌
 PS Eclipse|TryHackMe|Medium|Subscription|[Link](https://tryhackme.com/room/posheclipse)|❌
 New Hire Old Artifacts|TryHackMe|Medium|Subscription|[Link](https://tryhackme.com/room/newhireoldartifacts)|❌
@@ -112,6 +115,7 @@ Ignoble Scorpius|CyberDefenders|Insane|Subscription|[Link](https://cyberdefender
 T1110–003|CyberDefenders|Easy|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/t1110003/)|❌
 REvil|CyberDefenders|Easy|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/revil/)|❌
 Black Basta|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/black-basta/)|✅
+Perfect Survey|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/perfect-survey/)|✅
 Rhysida|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/rhysida/)|✅
 BlueSky Ransomware - Public Case #19208|DFIR Labs|Easy|Pay per access|[Link](https://portal.training-thedfirreport.com/store)|
 ALPHV Ransomware - Public Case #24952|DFIR Labs|Easy|Pay per access|[Link](https://portal.training-thedfirreport.com/store)|✅
