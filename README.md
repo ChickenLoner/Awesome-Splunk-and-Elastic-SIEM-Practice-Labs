@@ -24,7 +24,7 @@ Splunk IT|BTLO|Easy|Subscription|[Link](https://blueteamlabs.online/home/investi
 Drilldown|BTLO|Medium|Subscription|[Link](https://blueteamlabs.online/home/investigation/drilldown-db9ea241de)|❌
 Pikaboo|BTLO|Medium|Subscription|[Link](https://blueteamlabs.online/home/investigation/pikaboo-6bcb02f1a9)|✅
 MiddleMayhem|BTLO|Easy|Free|[Link](https://blueteamlabs.online/home/investigation/middlemayhem-aa3c27f5d1)|❌
-Rotten Cloud|BTLO|Medium|Free|[Link](https://blueteamlabs.online/home/investigation/rotten-cloud-dcf4ab87e0)|❌
+Rotten Cloud|BTLO|Medium|Subscription|[Link](https://blueteamlabs.online/home/investigation/rotten-cloud-dcf4ab87e0)|❌
 ShadowRoast|CyberDefenders|Meidum|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/shadowroast/)|✅
 FalconEye|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/falconeye/)|✅
 Boss Of The SOC v1|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/boss-of-the-soc-v1/)|❌
