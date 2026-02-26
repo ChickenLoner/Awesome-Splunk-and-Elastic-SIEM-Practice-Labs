@@ -34,16 +34,18 @@ AWSRaid|CyberDefenders|Easy|Subscription|[Link](https://cyberdefenders.org/bluet
 NerisBot|CyberDefenders|Easy|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/nerisbot/)|❌
 LNKTrap|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/lnktrap/)|✅
 TeamCity Exploit|CyberDefenders|Insane|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/teamcity-exploit/)|✅
-Maldemort|CyberDefenders|Hard|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/maldemort/)|❌
-ShadowCitadel|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/shadowcitadel/)|✅
-CredSnare|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/credsnare/)|✅
-DOOM|CyberDefenders|Insane|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/doom/)|✅
-DoubleDragon|CyberDefenders|Hard|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/doubledragon/)|✅
-Nitrogen|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/nitrogen/)|✅
-BlackSuitBreach|CyberDefenders|Hard|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/blacksuitbreach/)|✅
+Voldemort - APT41|CyberDefenders|Hard|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/maldemort/)|❌
+NetSupport RAT - TA569|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/shadowcitadel/)|✅
+CredSnare - Angry Likho APT|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/credsnare/)|✅
+Zoom Incident - Ignoble Scorpius APT|CyberDefenders|Insane|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/doom/)|✅
+StarkTech Incident - APT41|CyberDefenders|Hard|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/doubledragon/)|✅
+Nitrogen - Blackcat Ransomware|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/nitrogen/)|✅
+BlackSuit APT Breach|CyberDefenders|Hard|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/blacksuitbreach/)|✅
 RansomHub|CyberDefenders|Hard|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/ransomhub/)|✅
 Latrodectus – LunarSpider|CyberDefenders|Hard|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/latrodectus-lunarspider/)|✅
 Raining Dinosaurs - Storm-2603|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/raining-dinosaurs-storm-2603/)|✅
+Stolen Time - HiddenTear|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/stolen-time-hiddentear/)|✅
+Poisoned PyTorch|CyberDefenders|Easy|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/poisoned-pytorch/)|✅
 Benign|TryHackMe|Medium|Subscription|[Link](https://tryhackme.com/room/benign)|❌
 PS Eclipse|TryHackMe|Medium|Subscription|[Link](https://tryhackme.com/room/posheclipse)|❌
 New Hire Old Artifacts|TryHackMe|Medium|Subscription|[Link](https://tryhackme.com/room/newhireoldartifacts)|❌
@@ -118,7 +120,7 @@ T1110–003|CyberDefenders|Easy|Subscription|[Link](https://cyberdefenders.org/b
 REvil|CyberDefenders|Easy|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/revil/)|❌
 Black Basta|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/black-basta/)|✅
 Perfect Survey|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/perfect-survey/)|✅
-Rhysida|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/rhysida/)|✅
+Rhysida - Vice Society|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/rhysida/)|✅
 BlueSky Ransomware - Public Case #19208|DFIR Labs|Easy|Pay per access|[Link](https://portal.training-thedfirreport.com/store)|
 ALPHV Ransomware - Public Case #24952|DFIR Labs|Easy|Pay per access|[Link](https://portal.training-thedfirreport.com/store)|✅
 A Truly Graceful Wipe Out - Public Case #21619|DFIR Labs|Easy|Pay per access|[Link](https://portal.training-thedfirreport.com/store)|✅
