@@ -45,7 +45,7 @@ RansomHub|CyberDefenders|Hard|Subscription|[Link](https://cyberdefenders.org/blu
 Latrodectus – LunarSpider|CyberDefenders|Hard|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/latrodectus-lunarspider/)|✅
 Raining Dinosaurs - Storm-2603|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/raining-dinosaurs-storm-2603/)|✅
 Stolen Time - HiddenTear|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/stolen-time-hiddentear/)|✅
-Poisoned PyTorch|CyberDefenders|Easy|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/poisoned-pytorch/)|✅
+Poisoned PyTorch|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/poisoned-pytorch/)|✅
 Benign|TryHackMe|Medium|Subscription|[Link](https://tryhackme.com/room/benign)|❌
 PS Eclipse|TryHackMe|Medium|Subscription|[Link](https://tryhackme.com/room/posheclipse)|❌
 New Hire Old Artifacts|TryHackMe|Medium|Subscription|[Link](https://tryhackme.com/room/newhireoldartifacts)|❌
@@ -73,6 +73,7 @@ Peak|BTLO|Medium|Subscription|[Link](https://blueteamlabs.online/home/investigat
 Invoice|BTLO|Medium|Subscription|[Link](https://blueteamlabs.online/home/investigation/invoice-593671201f)|❌
 Bada Breach|BTLO|Hard|Subscription|[Link](https://blueteamlabs.online/home/investigation/bada-breach-a476f8b6bf)|✅
 Pathfinder's Mark|BTLO|Medium|Subscription|[Link](https://blueteamlabs.online/home/investigation/pathfinders-mark-40f725ed70)|❌
+Dumpster|BTLO|Hard|Subscription|[Link](https://blueteamlabs.online/home/investigation/dumpster-303c7fec88)|✅
 AzureHunt|CyberDefenders|Easy|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/azurehunt/)|❌
 ElasticCase|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/elasticcase/)|❌
 GitTheGate|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/gitthegate/)|❌
