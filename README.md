@@ -85,14 +85,17 @@ ItsyBitsy|TryHackMe|Medium|Subscription|[Link](https://tryhackme.com/room/itsybi
 Boogeyman 3|TryHackMe|Medium|Subscription|[Link](https://tryhackme.com/room/boogeyman3)|✅
 Hunt Me I: Payment Collectors|TryHackMe|Medium|Subscription|[Link](https://tryhackme.com/room/paymentcollectors)|❌
 Hunt Me II: Typo Squatters|TryHackMe|Medium|Subscription|[Link](https://tryhackme.com/room/typosquatters)|✅
-Virus Vipers|XINTRA|Medium|Subscription|[Link](https://www.xintra.org/dashboard/lab/e7405)|
-Assassin Kitty|XINTRA|Hard|Subscription|[Link](https://www.xintra.org/dashboard/lab/e7410)|✅
-Waifu University|XINTRA|Easy|Subscription|[Link](https://www.xintra.org/dashboard/lab/e7403)|✅
-Husky Corp|XINTRA|Medium|Subscription|[Link](https://www.xintra.org/dashboard/lab/e7463)|✅
-TechTonik Inc|XINTRA|Hard|Subscription|[Link](https://www.xintra.org/dashboard/lab/e7468)|
-Airbuzzed|XINTRA|Medium|Subscription|[Link](https://www.xintra.org/dashboard/lab/e7441)|
-Council of Tropical Affairs|XINTRA|Medium|Subscription|[Link](https://www.xintra.org/dashboard/lab/e7481)|✅
-Abu Jibal|XINTRA|Medium|Subscription|[Link](https://www.xintra.org/dashboard/lab/e7463)|✅
+Virus Vipers|XINTRA|Medium|Subscription|[Link](https://www.xintra.org/dashboard/upgrade?ref=lab-5)|
+Assassin Kitty|XINTRA|Hard|Subscription|[Link](https://www.xintra.org/dashboard/upgrade?ref=lab-6)|✅
+Waifu University|XINTRA|Easy|Subscription|[Link](https://www.xintra.org/dashboard/upgrade?ref=lab-7)|✅
+Husky Corp|XINTRA|Medium|Subscription|[Link](https://www.xintra.org/dashboard/upgrade?ref=lab-10)|✅
+TechTonik Inc|XINTRA|Hard|Subscription|[Link](https://www.xintra.org/dashboard/upgrade?ref=lab-11)|
+Airbuzzed|XINTRA|Medium|Subscription|[Link](https://www.xintra.org/dashboard/upgrade?ref=lab-12)|
+Council of Tropical Affairs|XINTRA|Medium|Subscription|[Link](https://www.xintra.org/dashboard/upgrade?ref=lab-38)|✅
+Abu Jibal|XINTRA|Medium|Subscription|[Link](https://www.xintra.org/dashboard/upgrade?ref=lab-37)|✅
+AB Projekt Blue|XINTRA|Medium|Subscription|[Link](https://www.xintra.org/dashboard/upgrade?ref=lab-35)|❌
+Meow Islands|XINTRA|Hard|Subscription|[Link](https://www.xintra.org/dashboard/upgrade?ref=lab-39)|
+NavalTech Systems|XINTRA|Medium|Subscription|[Link](https://www.xintra.org/dashboard/upgrade?ref=lab-40)|
 Acquisition|Ace Responder|None|Subscription|[Link](https://aceresponder.com/challenge/acquisition)|
 Pipe Dream|Ace Responder|None|Subscription|[Link](https://aceresponder.com/challenge/pipedream)|
 AD Maze|Ace Responder|None|Subscription|[Link](https://aceresponder.com/challenge/ad-maze)|
