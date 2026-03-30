@@ -46,6 +46,7 @@ Latrodectus – LunarSpider|CyberDefenders|Hard|Subscription|[Link](https://cybe
 Raining Dinosaurs - Storm-2603|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/raining-dinosaurs-storm-2603/)|✅
 Stolen Time - HiddenTear|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/stolen-time-hiddentear/)|✅
 Poisoned PyTorch|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/poisoned-pytorch/)|✅
+MarkShell - TA577|CyberDefenders|Easy|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/markshell-ta577/)|✅
 Benign|TryHackMe|Medium|Subscription|[Link](https://tryhackme.com/room/benign)|❌
 PS Eclipse|TryHackMe|Medium|Subscription|[Link](https://tryhackme.com/room/posheclipse)|❌
 New Hire Old Artifacts|TryHackMe|Medium|Subscription|[Link](https://tryhackme.com/room/newhireoldartifacts)|❌
