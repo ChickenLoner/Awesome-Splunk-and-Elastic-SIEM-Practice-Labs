@@ -25,6 +25,7 @@ Drilldown|BTLO|Medium|Subscription|[Link](https://blueteamlabs.online/home/inves
 Pikaboo|BTLO|Medium|Subscription|[Link](https://blueteamlabs.online/home/investigation/pikaboo-6bcb02f1a9)|✅
 MiddleMayhem|BTLO|Easy|Free|[Link](https://blueteamlabs.online/home/investigation/middlemayhem-aa3c27f5d1)|❌
 Rotten Cloud|BTLO|Medium|Subscription|[Link](https://blueteamlabs.online/home/investigation/rotten-cloud-dcf4ab87e0)|❌
+Bad Import|BTLO|Medium|Subscription|[Link](https://blueteamlabs.online/home/investigation/bad-import-f97ef9bc96)|❌
 ShadowRoast|CyberDefenders|Meidum|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/shadowroast/)|✅
 FalconEye|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/falconeye/)|✅
 Boss Of The SOC v1|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/boss-of-the-soc-v1/)|❌
@@ -81,6 +82,7 @@ GitTheGate|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/
 PaloAltoRCE|CyberDefenders|Hard|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/paloaltorce/)|❌
 HafinumAPT|CyberDefenders|Hard|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/hafinumapt/)|❌
 LTE Fallen Wall|CyberDefenders|Hard|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/lte-fallen-wall/)|❌
+Maromafix Falldown - RansomHub|CyberDefenders|Hard|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/maromafix-falldown-ransomhub/)|✅
 Slingshot|TryHackMe|Easy|Subscription|[Link](https://tryhackme.com/room/slingshot)|❌
 ItsyBitsy|TryHackMe|Medium|Subscription|[Link](https://tryhackme.com/room/itsybitsy)|❌
 Boogeyman 3|TryHackMe|Medium|Subscription|[Link](https://tryhackme.com/room/boogeyman3)|✅
