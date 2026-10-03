@@ -26,7 +26,7 @@ Pikaboo|BTLO|Medium|Subscription|[Link](https://blueteamlabs.online/home/investi
 MiddleMayhem|BTLO|Easy|Free|[Link](https://blueteamlabs.online/home/investigation/middlemayhem-aa3c27f5d1)|❌
 Rotten Cloud|BTLO|Medium|Subscription|[Link](https://blueteamlabs.online/home/investigation/rotten-cloud-dcf4ab87e0)|❌
 Bad Import|BTLO|Medium|Subscription|[Link](https://blueteamlabs.online/home/investigation/bad-import-f97ef9bc96)|❌
-ShadowRoast|CyberDefenders|Meidum|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/shadowroast/)|✅
+ShadowRoast|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/shadowroast/)|✅
 FalconEye|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/falconeye/)|✅
 Boss Of The SOC v1|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/boss-of-the-soc-v1/)|❌
 Boss Of The SOC v2|CyberDefenders|Hard|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/boss-of-the-soc-v2/)|❌
@@ -47,7 +47,15 @@ Latrodectus – LunarSpider|CyberDefenders|Hard|Subscription|[Link](https://cybe
 Raining Dinosaurs - Storm-2603|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/raining-dinosaurs-storm-2603/)|✅
 Stolen Time - HiddenTear|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/stolen-time-hiddentear/)|✅
 Poisoned PyTorch|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/poisoned-pytorch/)|✅
-MarkShell - TA577|CyberDefenders|Easy|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/markshell-ta577/)|✅
+MarkShell - TA577|CyberDefenders|Hard|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/markshell-ta577/)|✅
+ActiveMQ - LockBit Ransomware|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/activemq-lockbit-ransomware/)|
+BreakOut-Daedalus|CyberDefenders|Hard|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/breakout-daedalus/)|
+Gh0stNet Intrusion|CyberDefenders|Hard|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/gh0stnet-intrusion/)|
+ClawHavoc|CyberDefenders|Hard|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/clawhavoc/)|
+RansomedTrust - Lynx|CyberDefenders|Hard|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/ransomedtrust-lynx/)|
+BlindSentry|CyberDefenders|Insane|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/blindsentry/)|
+ClickFix - VodkaStealer|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/clickfix-vodkastealer/)|
+GhostConnect - TA583|CyberDefenders|Easy|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/ghostconnect-ta583/)|
 Benign|TryHackMe|Medium|Subscription|[Link](https://tryhackme.com/room/benign)|❌
 PS Eclipse|TryHackMe|Medium|Subscription|[Link](https://tryhackme.com/room/posheclipse)|❌
 New Hire Old Artifacts|TryHackMe|Medium|Subscription|[Link](https://tryhackme.com/room/newhireoldartifacts)|❌
@@ -58,6 +66,13 @@ Splunk 2|TryHackMe|Medium|Subscription|[Link](https://tryhackme.com/room/splunk2
 Splunk 3|TryHackMe|Medium|Subscription|[Link](https://tryhackme.com/room/splunk3zs)|❌
 Fixit|TryHackMe|Medium|Subscription|[Link](https://tryhackme.com/room/fixit)|❌
 Volt Typhoon|TryHackMe|Medium|Free|[Link](https://tryhackme.com/room/volttyphoon)|✅
+Incident Handling With Splunk|TryHackMe|Medium|Subscription|[Link](https://tryhackme.com/room/splunk201)|
+Alert Triage With Splunk|TryHackMe|Medium|Subscription|[Link](https://tryhackme.com/room/alerttriagewithsplunk)|
+Zero Tolerance|TryHackMe|Medium|Subscription|[Link](https://tryhackme.com/room/zerotolerance)|
+The Crown Jewel|TryHackMe|Easy|Subscription|[Link](https://tryhackme.com/room/thecrownjewel)|
+Detecting AD Credential Attacks|TryHackMe|Medium|Subscription|[Link](https://tryhackme.com/room/detectingadcredentialattacks)|✅
+Detecting AD Lateral Movement|TryHackMe|Medium|Subscription|[Link](https://tryhackme.com/room/detectingadlateralmovement)|✅
+Web Attack Forensics - Drone Alone|TryHackMe|Medium|Free|[Link](https://tryhackme.com/room/webattackforensics-aoc2025-b4t7c1d5f8)|
 
 ## Elastic
 |Lab Name|Platform|Difficulty|Pricing|Lab Link|AD|
@@ -83,11 +98,14 @@ PaloAltoRCE|CyberDefenders|Hard|Subscription|[Link](https://cyberdefenders.org/b
 HafinumAPT|CyberDefenders|Hard|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/hafinumapt/)|❌
 LTE Fallen Wall|CyberDefenders|Hard|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/lte-fallen-wall/)|❌
 Maromafix Falldown - RansomHub|CyberDefenders|Hard|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/maromafix-falldown-ransomhub/)|✅
+Maromalix Nightmare|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/maromalix-nightmare/)|
 Slingshot|TryHackMe|Easy|Subscription|[Link](https://tryhackme.com/room/slingshot)|❌
 ItsyBitsy|TryHackMe|Medium|Subscription|[Link](https://tryhackme.com/room/itsybitsy)|❌
 Boogeyman 3|TryHackMe|Medium|Subscription|[Link](https://tryhackme.com/room/boogeyman3)|✅
 Hunt Me I: Payment Collectors|TryHackMe|Medium|Subscription|[Link](https://tryhackme.com/room/paymentcollectors)|❌
 Hunt Me II: Typo Squatters|TryHackMe|Medium|Subscription|[Link](https://tryhackme.com/room/typosquatters)|✅
+Alert Triage With Elastic|TryHackMe|Medium|Subscription|[Link](https://tryhackme.com/room/alerttriagewithelastic)|
+Detection Rules Development|TryHackMe|Medium|Free|[Link](https://tryhackme.com/room/detectionrulesdevelopment)|
 Virus Vipers|XINTRA|Medium|Subscription|[Link](https://www.xintra.org/dashboard/upgrade?ref=lab-5)|
 Assassin Kitty|XINTRA|Hard|Subscription|[Link](https://www.xintra.org/dashboard/upgrade?ref=lab-6)|✅
 Waifu University|XINTRA|Easy|Subscription|[Link](https://www.xintra.org/dashboard/upgrade?ref=lab-7)|✅
@@ -99,6 +117,7 @@ Abu Jibal|XINTRA|Medium|Subscription|[Link](https://www.xintra.org/dashboard/upg
 AB Projekt Blue|XINTRA|Medium|Subscription|[Link](https://www.xintra.org/dashboard/upgrade?ref=lab-35)|❌
 Meow Islands|XINTRA|Hard|Subscription|[Link](https://www.xintra.org/dashboard/upgrade?ref=lab-39)|
 NavalTech Systems|XINTRA|Medium|Subscription|[Link](https://www.xintra.org/dashboard/upgrade?ref=lab-40)|
+Global Freight|XINTRA|Medium|Subscription|[Link](https://www.xintra.org/dashboard/upgrade?ref=lab-41)|
 Acquisition|Ace Responder|None|Subscription|[Link](https://aceresponder.com/challenge/acquisition)|
 Pipe Dream|Ace Responder|None|Subscription|[Link](https://aceresponder.com/challenge/pipedream)|
 AD Maze|Ace Responder|None|Subscription|[Link](https://aceresponder.com/challenge/ad-maze)|
@@ -113,6 +132,7 @@ Volt Typhoon|Ace Responder|None|Subscription|[Link](https://aceresponder.com/cha
 Run of the Mill|Ace Responder|None|Free|[Link](https://aceresponder.com/challenge/run-of-the-mill)|
 Locked Up|Ace Responder|None|Subscription|[Link](https://aceresponder.com/challenge/locked-up)|
 Intune Infiltration|Ace Responder|None|Subscription|[Link](https://aceresponder.com/challenge/intune-infiltration)|
+Dumpster Diving|Ace Responder|None|Subscription|[Link](https://aceresponder.com/challenge/dumpster-diving)|
 
 ## Elastic or Splunk, your choices
 |Lab Name|Platform|Difficulty|Pricing|Lab Link|AD|
@@ -136,13 +156,16 @@ Qbot Leads to Domain Compromise - Private Case #27101|DFIR Labs|Medium|Pay per a
 Dagon Locker Ransomware - Private Case #23825|DFIR Labs|Hard|Pay per access|[Link](https://portal.training-thedfirreport.com/store)|
 LockBit Ransomware - Public Case #27244|DFIR Labs|Medium|Pay per access|[Link](https://portal.training-thedfirreport.com/store)|✅
 Backdoors and LockBit - Private Case #27138|DFIR Labs|Easy|Pay per access|[Link](https://portal.training-thedfirreport.com/store)|✅
-BlackSuit Ransomware - Public Case #29354|DFIR Labs|Hard|Pay per access|[Link](https://portal.training-thedfirreport.com/store)|✅
-Elpaco-Team Ransomware - Private Case #30043|DFIR Labs|Medium|Pay per access|[Link](https://portal.training-thedfirreport.com/store)|✅
+BlackSuit Ransomware - Public Case #29354|DFIR Labs|Medium|Pay per access|[Link](https://portal.training-thedfirreport.com/store)|✅
+Elpaco-Team Ransomware - Public Case #30043|DFIR Labs|Medium|Pay per access|[Link](https://portal.training-thedfirreport.com/store)|✅
 Mud In The Water - Private Case #29823|DFIR Labs|Hard|Pay per access|[Link](https://portal.training-thedfirreport.com/store)|
-RansomHub Leads to Domain Compromise – Private Case #33490|DFIR Labs|Hard|Pay per access|[Link](https://portal.training-thedfirreport.com/store)|✅
+RansomHub Leads to Domain Compromise – Public Case #33490|DFIR Labs|Hard|Pay per access|[Link](https://portal.training-thedfirreport.com/store)|✅
 The Hive Ransomware Fail - Public Case #18364|DFIR Labs|Easy|Pay per access|[Link](https://portal.training-thedfirreport.com/store)|
 The Nokoyawa Ransomware Intrusion - Public Case #18543|DFIR Labs|Easy|Pay per access|[Link](https://portal.training-thedfirreport.com/store)|
 Specter's Domain Heist - Private Case #35218|DFIR Labs|Hard|Pay per access|[Link](https://portal.training-thedfirreport.com/store)|
 The Lunar Tangled Malware Web - Public Case #28761|DFIR Labs|Hard|Pay per access|[Link](https://portal.training-thedfirreport.com/store)|✅
+A Contagious Interview - Private Case #38413|DFIR Labs|Medium|Pay per access|[Link](https://portal.training-thedfirreport.com/store)|
+ClickFix leads to RomComRAT Domain Compromise - Private Case #35646|DFIR Labs|Hard|Pay per access|[Link](https://portal.training-thedfirreport.com/store)|
+ClickFix leads to Tsundere Bot, Tunnels, RMM's and Double Theft - Private Case #39390|DFIR Labs|Hard|Pay per access|[Link](https://portal.training-thedfirreport.com/store)|
 
 ***
