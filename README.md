@@ -4,7 +4,7 @@ Table of contents
 - [Elastic (ELK)](#elastic)
 - [Elastic or Splunk, your choices](#elastic-or-splunk-your-choices)
 * * *
-📝 A list of labs with Splunk and Elastic from various CyberSecurity Training platforms such as [CyberDefenders](https://cyberdefenders.org/dashboard/), [BlueTeamLabs Online (BTLO)](https://blueteamlabs.online/), [TryHackMe](https://tryhackme.com/), [DFIR Labs](https://portal.training-thedfirreport.com/store), [Xintra](https://www.xintra.org/), [Ace Responder](https://aceresponder.com), and more (will be updated in the future)!
+📝 A list of labs with Splunk and Elastic from various CyberSecurity Training platforms such as [CyberDefenders](https://cyberdefenders.org/dashboard/), [BlueTeamLabs Online (BTLO)](https://blueteamlabs.online/), [TryHackMe](https://tryhackme.com/), [DFIR Labs](https://portal.training-thedfirreport.com/store), [Xintra](https://www.xintra.org/), [Ace Responder](https://aceresponder.com), [Pwned Labs](https://pwnedlabs.io/), and more (will be updated in the future)!
 
 💬 Remark
 
@@ -34,17 +34,17 @@ Boss Of The SOC v3|CyberDefenders|Hard|Subscription|[Link](https://cyberdefender
 AWSRaid|CyberDefenders|Easy|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/awsraid/)|❌
 NerisBot|CyberDefenders|Easy|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/nerisbot/)|❌
 LNKTrap|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/lnktrap/)|✅
-TeamCity Exploit|CyberDefenders|Insane|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/teamcity-exploit/)|✅
-Voldemort - APT41|CyberDefenders|Hard|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/maldemort/)|❌
-NetSupport RAT - TA569|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/shadowcitadel/)|✅
-CredSnare - Angry Likho APT|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/credsnare/)|✅
-Zoom Incident - Ignoble Scorpius APT|CyberDefenders|Insane|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/doom/)|✅
-StarkTech Incident - APT41|CyberDefenders|Hard|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/doubledragon/)|✅
-Nitrogen - Blackcat Ransomware|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/nitrogen/)|✅
-BlackSuit APT Breach|CyberDefenders|Hard|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/blacksuitbreach/)|✅
+TeamCity Exploit|CyberDefenders|Insane|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/teamcity-exploit-apt29/)|✅
+Voldemort - APT41|CyberDefenders|Hard|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/voldemort-apt41/)|❌
+NetSupport RAT - TA569|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/netsupport-rat-ta569/)|✅
+CredSnare - Angry Likho APT|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/credsnare-angry-likho-apt/)|✅
+Zoom Incident - Ignoble Scorpius APT|CyberDefenders|Hard|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/zoom-incident-ignoble-scorpius-apt/)|✅
+StarkTech Incident - APT41|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/starktech-incident-apt41/)|✅
+Nitrogen - Blackcat Ransomware|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/nitrogen-blackcat-ransomware/)|✅
+BlackSuit APT Breach|CyberDefenders|Hard|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/blacksuit-apt-breach/)|✅
 RansomHub|CyberDefenders|Hard|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/ransomhub/)|✅
 Latrodectus – LunarSpider|CyberDefenders|Hard|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/latrodectus-lunarspider/)|✅
-Raining Dinosaurs - Storm-2603|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/raining-dinosaurs-storm-2603/)|✅
+Raining Dinosaurs - Storm-2603|CyberDefenders|Hard|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/raining-dinosaurs-storm-2603/)|✅
 Stolen Time - HiddenTear|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/stolen-time-hiddentear/)|✅
 Poisoned PyTorch|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/poisoned-pytorch/)|✅
 MarkShell - TA577|CyberDefenders|Hard|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/markshell-ta577/)|✅
@@ -56,6 +56,8 @@ RansomedTrust - Lynx|CyberDefenders|Hard|Subscription|[Link](https://cyberdefend
 BlindSentry|CyberDefenders|Insane|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/blindsentry/)|
 ClickFix - VodkaStealer|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/clickfix-vodkastealer/)|
 GhostConnect - TA583|CyberDefenders|Easy|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/ghostconnect-ta583/)|
+DeadDrop - Hollow|CyberDefenders|Hard|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/deaddrop-hollow/)|✅
+Poisoned Pipeline|CyberDefenders|Hard|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/poisoned-pipeline/)|
 Benign|TryHackMe|Medium|Subscription|[Link](https://tryhackme.com/room/benign)|❌
 PS Eclipse|TryHackMe|Medium|Subscription|[Link](https://tryhackme.com/room/posheclipse)|❌
 New Hire Old Artifacts|TryHackMe|Medium|Subscription|[Link](https://tryhackme.com/room/newhireoldartifacts)|❌
@@ -73,6 +75,8 @@ The Crown Jewel|TryHackMe|Easy|Subscription|[Link](https://tryhackme.com/room/th
 Detecting AD Credential Attacks|TryHackMe|Medium|Subscription|[Link](https://tryhackme.com/room/detectingadcredentialattacks)|✅
 Detecting AD Lateral Movement|TryHackMe|Medium|Subscription|[Link](https://tryhackme.com/room/detectingadlateralmovement)|✅
 Web Attack Forensics - Drone Alone|TryHackMe|Medium|Free|[Link](https://tryhackme.com/room/webattackforensics-aoc2025-b4t7c1d5f8)|
+Hunt in the Cloud with Splunk|Pwned Labs|Easy|Premium|[Link](https://pwnedlabs.io/explore/hunt-in-the-cloud-with-splunk)|❌
+Investigate a Ransomware Attack in AWS using Splunk|Pwned Labs|Medium|Premium|[Link](https://pwnedlabs.io/explore/investigate-a-ransomware-attack-in-aws-using-splunk)|❌
 
 ## Elastic
 |Lab Name|Platform|Difficulty|Pricing|Lab Link|AD|
@@ -94,8 +98,8 @@ Dumpster|BTLO|Hard|Subscription|[Link](https://blueteamlabs.online/home/investig
 AzureHunt|CyberDefenders|Easy|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/azurehunt/)|❌
 ElasticCase|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/elasticcase/)|❌
 GitTheGate|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/gitthegate/)|❌
-PaloAltoRCE|CyberDefenders|Hard|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/paloaltorce/)|❌
-HafinumAPT|CyberDefenders|Hard|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/hafinumapt/)|❌
+PaloAltoRCE - UTA0218|CyberDefenders|Hard|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/paloaltorce-uta0218/)|❌
+Hafnium APT|CyberDefenders|Hard|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/hafnium-apt/)|❌
 LTE Fallen Wall|CyberDefenders|Hard|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/lte-fallen-wall/)|❌
 Maromafix Falldown - RansomHub|CyberDefenders|Hard|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/maromafix-falldown-ransomhub/)|✅
 Maromalix Nightmare|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/maromalix-nightmare/)|
@@ -106,6 +110,10 @@ Hunt Me I: Payment Collectors|TryHackMe|Medium|Subscription|[Link](https://tryha
 Hunt Me II: Typo Squatters|TryHackMe|Medium|Subscription|[Link](https://tryhackme.com/room/typosquatters)|✅
 Alert Triage With Elastic|TryHackMe|Medium|Subscription|[Link](https://tryhackme.com/room/alerttriagewithelastic)|
 Detection Rules Development|TryHackMe|Medium|Free|[Link](https://tryhackme.com/room/detectionrulesdevelopment)|
+Servidae: Log Analysis in ELK|TryHackMe|Easy|Free|[Link](https://tryhackme.com/room/servidae)|❌
+Threat Hunting: Foothold|TryHackMe|Medium|Free|[Link](https://tryhackme.com/room/threathuntingfoothold)|
+Threat Hunting: Pivoting|TryHackMe|Medium|Subscription|[Link](https://tryhackme.com/room/threathuntingpivoting)|✅
+Threat Hunting: Endgame|TryHackMe|Medium|Subscription|[Link](https://tryhackme.com/room/threathuntingendgame)|
 Virus Vipers|XINTRA|Medium|Subscription|[Link](https://www.xintra.org/dashboard/upgrade?ref=lab-5)|
 Assassin Kitty|XINTRA|Hard|Subscription|[Link](https://www.xintra.org/dashboard/upgrade?ref=lab-6)|✅
 Waifu University|XINTRA|Easy|Subscription|[Link](https://www.xintra.org/dashboard/upgrade?ref=lab-7)|✅
@@ -133,21 +141,22 @@ Run of the Mill|Ace Responder|None|Free|[Link](https://aceresponder.com/challeng
 Locked Up|Ace Responder|None|Subscription|[Link](https://aceresponder.com/challenge/locked-up)|
 Intune Infiltration|Ace Responder|None|Subscription|[Link](https://aceresponder.com/challenge/intune-infiltration)|
 Dumpster Diving|Ace Responder|None|Subscription|[Link](https://aceresponder.com/challenge/dumpster-diving)|
+Detect Threats in the Cloud with ELK Stack|Pwned Labs|Easy|Premium|[Link](https://pwnedlabs.io/explore/detect-threats-in-the-cloud-with-elk-stack)|❌
 
 ## Elastic or Splunk, your choices
 |Lab Name|Platform|Difficulty|Pricing|Lab Link|AD|
 |-|-|-|-|-|-|
-BumbleSting|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/bumblesting/)|✅
+BumbleBee - GOLD CABIN|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/bumblebee-gold-cabin/)|✅
 GoldenSpray|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/goldenspray/)|✅
 Kerberoasted|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/kerberoasted/)|✅
 T1197|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/t1197/)|❌
 Midnight RDP|CyberDefenders|Hard|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/midnight-rdp/)|✅
-Ignoble Scorpius|CyberDefenders|Insane|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/ignoble-scorpius/)|✅
-T1110–003|CyberDefenders|Easy|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/t1110003/)|❌
-REvil|CyberDefenders|Easy|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/revil/)|❌
+Ignoble Scorpius APT|CyberDefenders|Insane|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/ignoble-scorpius-apt/)|✅
+T1110-003|CyberDefenders|Easy|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/t1110003/)|❌
+REvil - GOLD SOUTHFIELD|CyberDefenders|Easy|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/revil-gold-southfield/)|❌
 Black Basta|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/black-basta/)|✅
 Perfect Survey|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/perfect-survey/)|✅
-Rhysida - Vice Society|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/rhysida/)|✅
+Rhysida - Vice Society|CyberDefenders|Medium|Subscription|[Link](https://cyberdefenders.org/blueteam-ctf-challenges/rhysida-vice-society/)|✅
 BlueSky Ransomware - Public Case #19208|DFIR Labs|Easy|Pay per access|[Link](https://portal.training-thedfirreport.com/store)|
 ALPHV Ransomware - Public Case #24952|DFIR Labs|Easy|Pay per access|[Link](https://portal.training-thedfirreport.com/store)|✅
 A Truly Graceful Wipe Out - Public Case #21619|DFIR Labs|Easy|Pay per access|[Link](https://portal.training-thedfirreport.com/store)|✅
